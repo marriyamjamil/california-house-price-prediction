@@ -1,0 +1,15 @@
+# Trained model files (recreate with: python main.py)
+models/
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Editor and Jupyter
+.vscode/
+.ipynb_checkpoints/
